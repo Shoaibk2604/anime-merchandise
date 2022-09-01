@@ -324,7 +324,7 @@ letter-spacing: 0.2em;
     background-color: #fff;
     padding: 10px;
     width: 40vw;
-    height: calc(100vh - 9.2848vh);
+    height: calc(100vh - 6.3vh);
     transition: all 0.7s ease-in;
     left: -40%;
   }
@@ -338,7 +338,6 @@ letter-spacing: 0.2em;
     flex-direction: column;
   }
   .header-menu-list ul li{
-    /* padding: 0%; */
     margin: 10px 0;
   }
   .product-slider-container{
